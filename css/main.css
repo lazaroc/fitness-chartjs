@@ -54,7 +54,9 @@ hr {
  */
 
 audio,
-canvas,
+canvas {
+    padding: 10px 20px 20px 20px;
+}
 iframe,
 img,
 svg,
@@ -96,7 +98,11 @@ textarea {
    ========================================================================== */
 
 
+.main {
+    padding: 20px;
 
+    align-content: center;
+}
 
 
 
